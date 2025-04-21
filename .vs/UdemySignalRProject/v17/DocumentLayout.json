@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\UdemySignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D92C74-B280-41F9-88BE-D0CD5664CA9D}|SignalRwebUI\\SignalRwebUI.csproj|c:\\users\\user\\source\\repos\\udemysignalrproject\\signalrwebui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D92C74-B280-41F9-88BE-D0CD5664CA9D}|SignalRwebUI\\SignalRwebUI.csproj|solutionrelative:signalrwebui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D92C74-B280-41F9-88BE-D0CD5664CA9D}|SignalRwebUI\\SignalRwebUI.csproj|C:\\Users\\user\\source\\repos\\UdemySignalRProject\\signalrwebui\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D92C74-B280-41F9-88BE-D0CD5664CA9D}|SignalRwebUI\\SignalRwebUI.csproj|solutionrelative:signalrwebui\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UdemySignalRProject\\SignalRwebUI\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRwebUI\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UdemySignalRProject\\SignalRwebUI\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "SignalRwebUI\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T08:57:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\UdemySignalRProject\\SignalRwebUI\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRwebUI\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\UdemySignalRProject\\SignalRwebUI\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "SignalRwebUI\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T08:24:02.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
